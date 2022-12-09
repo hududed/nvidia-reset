@@ -1,5 +1,7 @@
 # nvidia-reset
 
+`nvidia-smi` was not working e.g. `Failed to initialize NVML: Driver/library version mismatch`
+
 1. `sudo su`
 2. `apt update`
 3. `apt upgrade`
